@@ -7,11 +7,11 @@ package sistemabancarioaula;
  */
 public class ContaCorrente {
 	
-	private int id;
+	 int id;
 	
-	private double saldo;
+	 double saldo;
 	
-	private boolean ativa;
+	 boolean ativa;
 
 	public ContaCorrente(int id, double saldo, boolean ativa) {
 		this.id = id;

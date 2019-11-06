@@ -6,17 +6,17 @@ package sistemabancarioaula;
  */
 public class Cliente {
 
-	private int id;
+	 int id;
 	
-	private String nome;
+	 String nome;
 	
-	private int idade;
+	 int idade;
 	
-	private String email;
+	 String email;
 	
-	private boolean ativo;
+	 boolean ativo;
 	
-	private int idContaCorrente;
+	 int idContaCorrente;
 
 	public Cliente(int id, String nome, int idade, String email, int idContaCorrente, boolean ativo) {
 		this.id = id;

@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class GerenciadoraContas {
 
-	private List<ContaCorrente> contasDoBanco;
+	 List<ContaCorrente> contasDoBanco;
 
 	public GerenciadoraContas(List<ContaCorrente> contasDoBanco) {
 		this.contasDoBanco = contasDoBanco;

@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class GerenciadoraClientes {
 
-	private List<Cliente> clientesDoBanco;
+	 List<Cliente> clientesDoBanco;
 
 	public GerenciadoraClientes(List<Cliente> clientesDoBanco) {
 		this.clientesDoBanco = clientesDoBanco;
